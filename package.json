@@ -3,9 +3,14 @@
   "displayName": "420-3A5-EM Automatisation de tâches (PowerShell)",
   "description": "Extensions pour le cours 420-3A5-EM Automatisation de tâches",
   "publisher": "vcarrier",
+  "icon": "images/ada-posh.png",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vcarrier/extpack-4203a5em-powershell"
+  },
   "engines": {
-    "vscode": "^1.71.0"
+    "vscode": "^1.68.1"
   },
   "categories": [
     "Extension Packs"

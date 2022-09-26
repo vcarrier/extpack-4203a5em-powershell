@@ -1,16 +1,8 @@
-# 3a5 README
+# Extensions VSCode pour 420-3A5-EM
 
-## Working with Markdown
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/4203a5em-powershell.svg?style=flat-square&color=11beac&label=marketplace)](https://marketplace.visualstudio.com/items?itemName=4203a5em-powershell)
+[![Install Count](https://vsmarketplacebadge.apphb.com/installs-short/4203a5em-powershell.svg?style=flat-square&color=11beac)](https://marketplace.visualstudio.com/items?itemName=4203a5em-powershell)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/4203a5em-powershell.svg?style=flat-square&color=11beac)](https://marketplace.visualstudio.com/items?itemName=4203a5em-powershell)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Ce pack d'extensions pour Visual Studio Code comprend les extensions utilisées dans le cours 420-3A5-EM Automatisation de tâches, du CÉGEP Édouard-Montpetit.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
