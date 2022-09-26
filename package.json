@@ -1,10 +1,11 @@
 {
-  "name": "4203a5em-powershell",
-  "displayName": "420-3A5-EM Automatisation de tâches (PowerShell)",
+  "name": "extpack-4203a5em-powershell",
+  "displayName": "420-3A5-EM Automatisation de tâches",
   "description": "Extensions pour le cours 420-3A5-EM Automatisation de tâches",
   "publisher": "vcarrier",
   "icon": "images/ada-posh.png",
-  "version": "0.0.1",
+  "homepage": "https://info.cegepmontpetit.ca",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/vcarrier/extpack-4203a5em-powershell"
@@ -18,28 +19,18 @@
   "extensionPack": [ 
     "MS-CEINTL.vscode-language-pack-fr", 
     "ms-vscode.powershell", 
-    "TylerLeonhardt.vscode-inline-values-powershell", 
-    "TylerLeonhardt.vscode-pester-test-adapter", 
     "tobysmith568.run-in-powershell", 
-    "electrotype.windows-explorer-context-menu", 
+    "pspester.pester-test", 
     "eamodio.gitlens", 
     "github.classroom", 
     "GitHub.vscode-pull-request-github", 
-    "donjayamanne.githistory", 
-    "Darfka.vbscript", 
-    "pspester.pester-test", 
-    "hbenl.vscode-test-explorer", 
-    "ms-vscode.test-adapter-converter", 
     "rangav.vscode-thunder-client", 
-    "redhat.vscode-yaml", 
     "DotJoshJohnson.xml", 
     "nickdemayo.vscode-json-editor", 
     "heaths.vscode-guid", 
     "ms-vscode.hexeditor", 
-    "VisualStudioExptTeam.vscodeintellicode", 
     "LouisWT.regexp-preview", 
     "viktorzetterstrom.non-breaking-space-highlighter", 
-    "vsls-contrib.codetour", 
-    "vsls-contrib.gistfs"
+    "MartinFliegner.dark-powershell-theme"
   ]
 }
