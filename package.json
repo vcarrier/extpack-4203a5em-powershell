@@ -5,7 +5,7 @@
   "publisher": "vcarrier",
   "icon": "images/ada-posh.png",
   "homepage": "https://info.cegepmontpetit.ca",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/vcarrier/extpack-4203a5em-powershell"
@@ -30,7 +30,6 @@
     "heaths.vscode-guid", 
     "ms-vscode.hexeditor", 
     "LouisWT.regexp-preview", 
-    "viktorzetterstrom.non-breaking-space-highlighter", 
     "MartinFliegner.dark-powershell-theme"
   ]
 }
